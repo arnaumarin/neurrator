@@ -54,7 +54,7 @@ in float16 fits in 16 GB of GPU memory.
 This release does not redistribute neural data. Both stimuli and recordings
 are publicly available from the Allen Brain Observatory Visual Coding —
 Neuropixels release (`brain_observatory_1.1` protocol):
-[brain-map.org/explore/circuits/visual-coding-neuropixels](https://portal.brain-map.org/explore/circuits/visual-coding-neuropixels).
+[brain-map.org/](https://portal.brain-map.org/).
 
 The expected on-disk format produced by the user's preprocessing pipeline is
 documented in `neurrator/data.py`:
