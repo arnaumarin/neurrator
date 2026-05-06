@@ -1,0 +1,23 @@
+# Byte-compiled / temp
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.ipynb_checkpoints/
+
+# Local credentials
+.env
+.envrc
+*.pem
+*.key
+
+# Local results / data (not part of the release)
+data/
+results/
+models/
+*.npz
+*.npy
+*.pt
+*.pth
+*.h5
+*.log

@@ -1,0 +1,7 @@
+torch>=2.1
+transformers>=4.40
+sentence-transformers>=2.7
+open_clip_torch>=2.20
+numpy>=1.26
+scipy>=1.11
+Pillow>=10.0
