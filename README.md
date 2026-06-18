@@ -9,11 +9,6 @@ tower at inference so the model produces text directly from neural-side
 embeddings. Training and evaluation use the public Allen Brain Observatory
 Visual Coding — Neuropixels release.
 
-This release is intentionally minimal. It exposes the model architecture,
-the loss, the LLaVA injection trick, and the evaluation harness in a form
-that is small enough to read end-to-end and re-implement. It is **not** a
-full reproducible pipeline: data download, preprocessing, and large-scale
-training orchestration are described but not bundled.
 
 ## Repository layout
 
