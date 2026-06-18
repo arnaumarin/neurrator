@@ -1,8 +1,5 @@
 # Neurrator
 
-This repository accompanies a NeurIPS 2026 submission. **Author identities
-are withheld for double-blind review.**
-
 `Neurrator` decodes natural-language narrations from spike trains recorded
 with high-density extracellular electrophysiology in mouse visual cortex.
 A learned encoder maps short windows of single-unit spike activity into the
